@@ -1,6 +1,12 @@
 # docs
 Documents and whitepapers
 
+## Gattack.io slides & whitepaper
+
+BHUSA 2016 [slides here.](https://github.com/securing/docs/blob/master/slides.pdf)
+
+Whitepaper  [ is here.](https://github.com/securing/docs/blob/master/whitepaper.pdf)
+
 ## License
 
 Copyright (C) 2016 SecuRing
